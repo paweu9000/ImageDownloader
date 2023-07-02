@@ -4,7 +4,7 @@
 
 Example usage:
 ```
-nim c -r https://example.com/image
+nim c -r main https://example.com/image
 ```
 
 The file format will be chosen automatically based on content type of headers
